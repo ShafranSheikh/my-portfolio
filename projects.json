@@ -1,0 +1,29 @@
+[
+    {
+        "image":"./assets/images/portfolio1.jpg",
+        "heading":"E-Commerce",
+        "description":"E-Commerce website for spice distributors",
+        "links":{
+            "view":"https://example.com/view-project1",
+            "code":"https://github.com/user/repo1"
+        }
+    },
+    {
+        "image":"./assets/images/portfolio2.jpg",
+        "heading":"Management System",
+        "description":"A Student management system developed using JAVA",
+        "links":{
+            "view":"https://example.com/view-project2",
+            "code":"https://github.com/user/repo1"
+        }
+    },
+    {
+        "image":"./assets/images/portfolio3.jpg",
+        "heading":"E-Commerce",
+        "description":"E-Commerce website Developed using react",
+        "links":{
+            "view":"https://example.com/view-project2",
+            "code":"https://github.com/user/repo1"
+        }
+    }
+]
